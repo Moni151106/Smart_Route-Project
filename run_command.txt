@@ -1,0 +1,3 @@
+run = npm.cmd run dev
+
+stop = press ctrl + c
